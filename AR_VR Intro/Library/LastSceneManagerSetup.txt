@@ -1,0 +1,7 @@
+sceneSetups:
+- path: Assets/Scenes/intro 1.unity
+  isLoaded: 1
+  isActive: 1
+- path: Assets/ABC.unity
+  isLoaded: 1
+  isActive: 0
